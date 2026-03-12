@@ -141,7 +141,7 @@ MRP0   WAIT_FOR_LOG
 
 Screenshot
 
-![MRP Process](screenshots/mrp_process_running.png)
+![MRP Process](screenshots/mrp_process_running.png.png)
 
 ---
 
