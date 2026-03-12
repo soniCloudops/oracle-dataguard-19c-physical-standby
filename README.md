@@ -14,7 +14,7 @@ Standby Server : dr-db
 Oracle Version : 19c  
 OS : Linux  
 
-![Data Guard Architecture](architecture/dataguard_architecture.png)
+![Data Guard Architecture](architecture/architecture.png.png)
 
 Primary Database  ---> Redo Transport ---> Standby Database
 
