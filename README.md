@@ -82,13 +82,13 @@ NOFILENAMECHECK;
 
 Screenshot
 
-![RMAN Duplicate](screenshots/rman_duplicate_start.png)
+![RMAN Duplicate](screenshots/rman_duplicate_start.png.png)
 
 ---
 
 # Step 5 : Duplicate Completed Successfully
 
-![Duplicate Success](screenshots/duplicate_success.png)
+![Duplicate Success](screenshots/duplicate_success.png.png)
 
 ---
 
@@ -117,7 +117,7 @@ PHYSICAL STANDBY  MOUNTED
 
 Screenshot
 
-![Standby Mounted](screenshots/standby_mounted.png)
+![Standby Mounted](screenshots/standby_mounted.png.png)
 
 ---
 
